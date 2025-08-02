@@ -4,7 +4,7 @@ import torch
 import random
 import numpy as np
 
-import synthetic.model
+# import synthetic.model
 from models.HVAE import HVAE
 from models.ScoreNetwork_A import ScoreNetworkA, ScoreNetworkA_poincare, HScoreNetworkA
 from models.ScoreNetwork_X import ScoreNetworkX, ScoreNetworkX_GMH, ScoreNetworkX_poincare

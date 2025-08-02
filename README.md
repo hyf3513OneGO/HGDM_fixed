@@ -5,6 +5,9 @@ Please use the following command to install the requirements:
 ```
 pip install -r requirements.txt
 ```
+```
+conda install -c conda-forge molsets==0.3.1 -y
+```
 
 For molecule generation, additionally run the following command:
 
